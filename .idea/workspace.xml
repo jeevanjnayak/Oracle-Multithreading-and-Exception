@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2807fc34-7bdf-4af4-92f6-8a0ae12b421e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankJDBC/BankJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Banking/Banking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22-23-24/Day 22-23-24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22-23-24/src/com/Bridgelabz/Day23Lambda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../File_IO/File_IO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstHTTPServer/FirstHTTPServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstServeletProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstServeletProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstServeletProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstServeletProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstServeletProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstServeletProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstServeletProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstServeletProject/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstServeletProject/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyPractice/MyPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Random/Random.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegexDay_19/RegexDay_19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/Workshop3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopCar/WorkshopCar.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DRYjvGdEV46b0XQmDg5NPOg193" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ECLIPSE JAVA/MultiThreading&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ImplementationClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.ImplementationClass" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImplementationClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2807fc34-7bdf-4af4-92f6-8a0ae12b421e" name="Changes" comment="" />
+      <created>1660663504914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660663504914</updated>
+      <workItem from="1660663506549" duration="28000" />
+      <workItem from="1660663588545" duration="25000" />
+      <workItem from="1660663690307" duration="5423000" />
+      <workItem from="1661351398281" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
